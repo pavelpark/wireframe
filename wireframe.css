@@ -1,0 +1,68 @@
+header{
+  position: relative;
+}
+
+nav img{
+  height: 100px;
+  background-color: grey;
+  text-align: center;
+}
+
+nav{
+  height: 100px;
+  background-color: grey;
+  margin:auto;
+  padding:20px;
+}
+
+.footer{
+  height: 100px;
+  background-color: grey;
+}
+
+a{
+  text-align:center;
+  font-size: 20px;
+  text-decoration: none;
+    padding:40px 20px;
+}
+
+article p{
+  width: 480px;
+  height: 400px;
+  overflow: scroll;
+}
+
+.center{
+  padding:30px 220px;
+}
+
+.inline{
+padding-top: 30px;
+padding-left: 30px;
+padding-right: 30px;
+}
+
+.inline_outer{
+  text-align: center;
+}
+
+.inline_iner{
+  display: inline-block;
+}
+
+.bottom{
+  padding: 10px;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.outerdiv{
+  text-align: center;
+}
+
+
+/*use float*/
+/*over-flow scroll
+x=hidden
+y=scroll*/
